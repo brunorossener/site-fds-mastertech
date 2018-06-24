@@ -1,0 +1,50 @@
+header.teste {
+    position: relative;
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    color: white;
+    background: url("../img/bg-pattern.png"), #131e7e;
+    background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #131b8b, #035503);
+    background: url("../img/bg-pattern.png"), linear-gradient(to left, #080953, #043f04);
+}
+
+.bg-comunidade {
+    background:url("../img/social-community.jpg");
+
+}
+
+.bg-azul {
+    background: #1b0752;
+    background: -webkit-linear-gradient(#1b0752, #1b0752);
+    background: linear-gradient(#1b0752, #1b0752);
+}
+
+h1 {
+    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: white;
+}
+h2 {
+    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: black;
+}
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: white;
+}
+h7 {
+    font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
+    font-weight: 200;
+    font-size: 40pt;
+    letter-spacing: 1px;
+    color: white;
+}
